@@ -13,6 +13,7 @@
 
 ### Business Questions:
                                                                                                   
+                                            ![image](https://github.com/Simpy97/Visualization/assets/123116251/24b0ae46-64d8-4ff7-a409-2969ca392b58)
 
                                                              
  => Which age group required more time to recuperate than the others?  
