@@ -12,6 +12,8 @@
 ### The statistics on hospital admissions and patient discharges are included in this data. Along with it, there is patient-related data including age, sex, location, and several other ailments that were noted. The outcomes were also recorded, including whether the patient was released from the hospital or passed away there.
 
 ### Business Questions:
+                                                                                                    ![image](https://github.com/Simpy97/Visualization/assets/123116251/1065a156-f91e-48d5-a948-887db958e289)
+
                                                              
  => Which age group required more time to recuperate than the others?  
  => How many patients died in the hospital from COVID?
