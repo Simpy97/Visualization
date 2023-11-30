@@ -15,7 +15,6 @@
 
  => Which age group required more time to recuperate than the others?  
  => How many patients died in the hospital from COVID?
-
  => Which department (emergency or OPD) admitted the most patients?
 
 ![image](https://github.com/Simpy97/Visualization/assets/123116251/ffc9c4b1-115a-4cf2-a7d4-ae2445dd85c1)
