@@ -29,6 +29,8 @@ Reference:https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data
 
 ![image](https://github.com/Simpy97/Visualization/assets/123116251/c5c9a30b-a611-4e0a-bdd6-d2d82e830e4e)
 
+![image](https://github.com/Simpy97/Visualization/assets/123116251/72227a19-2fd3-468a-8f6f-bd176a8dd797)
+
 
 
                                                      
