@@ -21,16 +21,14 @@
  
  => Which department (emergency or OPD) admitted the most patients?
 
-
-
-
 Reference:https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data
 
 
-### This dataset starts from 2017 to 2019 which contains 3 years with more than 3000 rows. Age group and  gender are two main criteria, and data aggregation based on category and review is also included. In other words, I will analyze age on different criteria with gender where I would be able to get more information about this data.
-
-
+### This dataset starts from 2017 to 2019 which contains 3 years with more than 3000 rows. Age group and  gender are two main criteria, and data aggregation based on category and review is also included.
 ![image](https://github.com/Simpy97/Visualization/assets/123116251/c5c9a30b-a611-4e0a-bdd6-d2d82e830e4e)
+### In other words, I will analyze age on different criteria with gender where I would be able to get more information about this data.
+
+## Visualization of one question from Hospital Admission Data 
 
 ![image](https://github.com/Simpy97/Visualization/assets/123116251/72227a19-2fd3-468a-8f6f-bd176a8dd797)
 
