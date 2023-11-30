@@ -14,6 +14,7 @@
 ### Business Questions:
 
  => Which age group required more time to recuperate than the others?  
+ 
  => How many patients died in the hospital from COVID?
  
  => Which department (emergency or OPD) admitted the most patients?
