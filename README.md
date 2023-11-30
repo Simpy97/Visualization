@@ -49,6 +49,15 @@ Reference:https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data
 
 Reference: https://www.kaggle.com/datasets/gregorut/videogamesales
 
+### I came to know about many data’s on Kaggle but finally I found this data interesting for visualization which give me large amount of information about video game sales committed in district.
+
+### Having a large amount of data—11 columns and 16599 rows—allows for the extraction of more information from the available data.
+
+### Data aggregation based on category and review is also provided, along with platform and genre as the two key criteria. In order to learn more about this data, I will, in other words, examine the platform number according to year and on several genre criteria.
+
+
+
+
 
 
 
