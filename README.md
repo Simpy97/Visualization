@@ -55,7 +55,9 @@ Reference: https://www.kaggle.com/datasets/gregorut/videogamesales
 
 ### Data aggregation based on category and review is also provided, along with platform and genre as the two key criteria. In order to learn more about this data, I will, in other words, examine the platform number according to year and on several genre criteria.
 
+![image](https://github.com/Simpy97/Visualization/assets/123116251/c019162f-7cf9-4fc1-92c3-be6bc12f6093)
 
+# District wise crimes commit
 
 
 
