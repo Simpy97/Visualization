@@ -63,6 +63,24 @@ Reference: https://www.kaggle.com/datasets/gregorut/videogamesales
 ![image](https://github.com/Simpy97/Visualization/assets/123116251/7214cd28-c47c-481e-8c56-760d4340ef6a)
 ### The data typically includes the name of the district, the number of crimes committed in that district, the type of crimes committed, and the time period during which the crimes were committed. This dataset can be used to identify areas with high crime rates and target interventions to reduce crime, as well as to monitor changes in crime trends over time. 
 
+### Business Questions:
+=> Which year saw the highest number of rape crimes?
+
+=> Which neighborhood has had the most murders?
+
+=> What was the total number of kidnappings throughout that time?
+
+Reference: https://www.kaggle.com/datasets/rajanand/crime-in-india
+
+### I learned about a lot of data on Kaggle, but in the end I decided that this data was useful for visualization because it provided me with a lot of information on crime in the district.
+
+### Having a lot of data means that there are 32 columns and 9018 rows, which allows for the extraction of additional information from the available data.
+
+![image](https://github.com/Simpy97/Visualization/assets/123116251/d4adf236-3e23-427e-8b4e-377b21294e87)
+
+### Data aggregation based on category and review is also included, with rape and kidnapping being the two key criteria. In order to learn more about this data, I will, in other words, assess the number of rapes by year and on various kidnapping parameters.
+
+
 
 
 
