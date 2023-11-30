@@ -17,6 +17,7 @@
  => How many patients died in the hospital from COVID?
  => Which department (emergency or OPD) admitted the most patients?
 
+https://github.com/Simpy97/Visualization/issues/1#issue-2019404428
 
 
 
