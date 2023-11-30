@@ -1,4 +1,4 @@
-# Assignment II Power BI
+# Visualization in Power BI
 
 ## I obtained three datasets from Kaggle, and I believed that I would be able to visualize each of them even if I did visualization on one question from my business questions.
 
