@@ -37,7 +37,9 @@ Reference:https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data
 
 ### Business Question: 
 => How many PSP platforms were there in 2016?
+
 => How many platforms featured sports during the time frame?
+
 => How many units did Nintendo sell globally between 2006 and 2011?
 
 
