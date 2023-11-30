@@ -31,6 +31,11 @@ Reference:https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data
 
 ![image](https://github.com/Simpy97/Visualization/assets/123116251/72227a19-2fd3-468a-8f6f-bd176a8dd797)
 
+# Video Game Sales
+
+### This dataset offers a thorough examination of video game sales across multiple platforms and geographical areas. It includes information on the titles of prominent video games, their release years, and the number of units sold worldwide. It also offers data on the sales figures of games from various publishers. The data also sheds light on the historical growth patterns of the gaming sector. To properly assess the market demand for various video games and to decide on the creation, promotion, and distribution of their products, game developers, publishers, and marketers need access to this data. Market research, market forecasting, and strategy planning are just a few of the uses for the dataset.
+
+
 
 
                                                      
