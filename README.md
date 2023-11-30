@@ -59,6 +59,13 @@ Reference: https://www.kaggle.com/datasets/gregorut/videogamesales
 
 # District wise crimes commit
 
+### The dataset on "District-wise Crimes Committed" provides information on the number of crimes committed in different districts of a particular region or country. This dataset is useful in analyzing crime patterns and trends across different regions and can help law enforcement agencies allocate resources and make informed decisions.
+![image](https://github.com/Simpy97/Visualization/assets/123116251/7214cd28-c47c-481e-8c56-760d4340ef6a)
+### The data typically includes the name of the district, the number of crimes committed in that district, the type of crimes committed, and the time period during which the crimes were committed. This dataset can be used to identify areas with high crime rates and target interventions to reduce crime, as well as to monitor changes in crime trends over time. 
+
+
+
+
 
 
 
