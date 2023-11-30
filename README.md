@@ -7,7 +7,11 @@
 ### 3 District wise crimes commit
 
 
-![image](https://github.com/Simpy97/Visualization/assets/123116251/2e0e494c-5761-4e12-a7c6-61cf3a6cf5dd)
+## Hospital Admissions Data
+
+
+
+                                                        ![image](https://github.com/Simpy97/Visualization/assets/123116251/2e0e494c-5761-4e12-a7c6-61cf3a6cf5dd)
 
 
 
